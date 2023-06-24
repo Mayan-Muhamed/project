@@ -1,6 +1,6 @@
  # Командный проект группы №2 (25-3F01032023)
-Git flow
-Первоначальная настройка проекта
+## Git flow
+## Первоначальная настройка проекта
 git clone git@github.com:MrBlunderovich/geeks-team-project.git Копируем проект
 npm install Устанавливаем зависимости
 ## Рабочий цикл
