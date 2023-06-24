@@ -3,7 +3,7 @@ Git flow
 Первоначальная настройка проекта
 git clone git@github.com:MrBlunderovich/geeks-team-project.git Копируем проект
 npm install Устанавливаем зависимости
-Рабочий цикл
+## Рабочий цикл
 git checkout main Если мы не в главной ветке, переходим в нее
 git pull origin Синхронизируем главную ветку с удаленным репозиторием (Гитхаб)
 git checkout -b <branch-name> Создаем рабочую ветку для нового функционала. НЕ вносим изменения в ветку main вообще
