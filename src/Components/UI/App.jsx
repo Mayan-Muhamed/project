@@ -2,7 +2,7 @@ import React from "react"
 import AppStyle from './AppStyle.module.css'
 function App() {
   return (
-    <div className={AppStyle.contain}>
+    <div className={AppStyle.container}>
      <div 
        style={{  height: `200px`, margin: `50px auto`, border: `2px solid black`,display: "flex",
         justifyContent: "center",
