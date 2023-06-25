@@ -1,12 +1,23 @@
 import React from "react"
 import AppStyle from './AppStyle.module.css'
 function App() {
+  const defaultStyle = {
+        width: `600px`,
+        height: `400px`,
+        margin: `50px auto`,
+        border: `2px solid black`,
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        borderRadius: `5px`,
+        fontWeight: 700,
+        background: "blueviolet",
+        color:`black`,
+        fontSize:"1.1em"
+  }
   return (
     <div className={AppStyle.container}>
-     <div 
-       style={{  height: `200px`, margin: `50px auto`, border: `2px solid black`,display: "flex",
-        justifyContent: "center",
-        alignItems: "center",}}> 
+     <div style={ defaultStyle }> 
 
     Этот блок  для  Бакира.! <br/> 
     Надо удалить всё что находиться  в  этом  блоке <br/>
@@ -19,9 +30,7 @@ function App() {
 
     </div>
 
-       <div style={{  height: `200px`, margin: `50px auto`,border: `2px solid black`,display: "flex",
-        justifyContent: "center",
-        alignItems: "center", }}> 
+       <div style={ defaultStyle }> 
 
         Этот блок  для  Мухамеда.! <br/> 
         Надо удалить всё что находиться  в  этом  блоке <br/>
@@ -34,9 +43,7 @@ function App() {
 
     </div>
 
-         <div style={{  height: `200px`, margin: `50px auto`,border: `2px solid black`,display: "flex",
-        justifyContent: "center",
-        alignItems: "center", }}> 
+         <div style={ defaultStyle }> 
 
         Этот блок  для  Далиля.! <br/> 
         Надо удалить всё что находиться  в  этом  блоке <br/>
@@ -48,9 +55,7 @@ function App() {
 
     </div>
 
-       <div style={{  height: `200px`, margin: `50px auto`,border: `2px solid black`,display: "flex",
-        justifyContent: "center",
-        alignItems: "center", }}> 
+       <div style={ defaultStyle }> 
 
         Этот блок  для  Игрья.! <br/> 
         Надо удалить всё что находиться  в  этом  блоке <br/>
@@ -62,9 +67,7 @@ function App() {
 
     </div>
 
-     <div style={{  height: `200px`, margin: `50px auto`,border: `2px solid black`,display: "flex",
-        justifyContent: "center",
-        alignItems: "center", }}> 
+     <div style={ defaultStyle }> 
 
         Этот блок  для  Асема.! <br/> 
         Надо удалить всё что находиться  в  этом  блоке <br/>
