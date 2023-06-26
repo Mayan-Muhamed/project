@@ -1,5 +1,7 @@
 import React from "react"
-import AppStyle from './AppStyle.module.css'
+import '../../main.css'
+import Button from "./Button.jsx"
+import Title from "./Title"
 function App() {
   const defaultStyle = {
         width: `600px`,
@@ -16,9 +18,9 @@ function App() {
         fontSize:"1.1em"
   }
   return (
-    <div className={AppStyle.container}>
+    <div className='container'>
      <div style={ defaultStyle }> 
-
+    
     Этот блок  для  Бакира.! <br/> 
     Надо удалить всё что находиться  в  этом  блоке <br/>
      и загрузить свой стилизованный  компонент <br/>
@@ -26,8 +28,6 @@ function App() {
     <br/>
     <br/>
     Желаю удачи в проекте  ))
-
-
     </div>
 
        <div style={ defaultStyle }> 

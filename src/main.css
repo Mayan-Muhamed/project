@@ -3,3 +3,11 @@
     padding: 0px;
     margin: 0px;
 }
+:root {
+  --bg-color: #FFFFFF;
+}
+.container{
+    max-width: 1138px;
+    margin: 0 auto;  
+}
+
