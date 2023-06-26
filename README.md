@@ -35,8 +35,8 @@ Tasks:
 2. reservation
 
 ```Далия``` 
-1.ourDishes
-2.ourMenu
+1. ourDishes
+2. ourMenu
 
 ```Игорь```
 1. guests
