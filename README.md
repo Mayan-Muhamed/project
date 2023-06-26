@@ -25,20 +25,20 @@ Tasks:
  3. Разобраться с гитом
  4. Выбрать тимлида + (Бакир)
 
-Бакир
+```Бакир```
 1. header
 2. logo
 3. logoCards
 
-Мухамед
+```Мухамед```
 1. story
 2. reservation
 
-Далия 
+```Далия``` 
 1.ourDishes
 2.ourMenu
 
-Игорь
+```Игорь```
 1. guests
 2. gallery
 3.footer 
@@ -46,13 +46,13 @@ Tasks:
 думаю над дизайном footera можно поработать всем 
 накидать идей и мыслей
 
-Асема
+```Асема```
 1.cookers
 2. restaurant
 
 
 
-Название блоков:
+```Название блоков:```
  1. header menu
  2. section logo
  3. section logoCards
