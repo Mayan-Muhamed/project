@@ -47,7 +47,7 @@ Tasks:
 накидать идей и мыслей
 
 ```Асема```
-1.cookers
+1. cookers
 2. restaurant
 
 
