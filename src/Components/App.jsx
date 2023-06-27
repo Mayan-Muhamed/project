@@ -1,7 +1,5 @@
 import React from "react"
-import '../../main.css'
-import Button from "./Button.jsx"
-import Title from "./Title"
+import '../main.css'
 function App() {
   const defaultStyle = {
     width: `600px`,
@@ -31,7 +29,6 @@ function App() {
         <br />
         <br />
       </div>
-      <Title title={"Наша"} item={"Исторя"} />
 
       <div style={defaultStyle}>
 
