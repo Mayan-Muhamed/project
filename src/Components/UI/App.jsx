@@ -28,7 +28,10 @@ function App() {
         <br />
         <br />
         Желаю удачи в проекте  ))
+        <br />
+        <br />
       </div>
+      <Title title={"Наша"} item={"Исторя"} />
 
       <div style={defaultStyle}>
 
