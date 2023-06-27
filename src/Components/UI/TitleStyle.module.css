@@ -1,12 +1,19 @@
 .title{
-width: max-content;
-height: max-content;
-font-weight: 400;
-font-size: 54px;
-color:black;
-font-family: 'Tinos', serif;
-display: block;
+    width: max-content;
+    height: max-content;
+    font-weight: 400;
+    font-size: 54px;
+    font-family: 'Tinos', serif;
+    display: inline-block;
+    margin-right: 20px;
+    color:black;
 }
-.p{
-color:#D67E34;
+.item{
+    width: max-content;
+    height: max-content;
+    font-weight: 400;
+    font-size: 54px;
+    font-family: 'Tinos', serif;
+    display: inline-block;
+    color:#D67E34;
 }

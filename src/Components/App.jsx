@@ -1,8 +1,5 @@
 import React from "react"
-import '../../main.css'
-import Button from "./Button.jsx"
-import Title from "./Title"
-import Header from "./Header/Header"
+import '../main.css'
 function App() {
   const defaultStyle = {
     width: `600px`,
@@ -19,8 +16,20 @@ function App() {
     fontSize: "1.1em"
   }
   return (
-    <div >
-      <Header />
+    <div className='container'>
+      <div style={defaultStyle}>
+
+        Этот блок  для  Бакира.! <br />
+        Надо удалить всё что находиться  в  этом  блоке <br />
+        и загрузить свой стилизованный  компонент <br />
+        .Стили тоже нада удалить.<br />
+        <br />
+        <br />
+        Желаю удачи в проекте  ))
+        <br />
+        <br />
+      </div>
+
       <div style={defaultStyle}>
 
         Этот блок  для  Мухамеда.! <br />

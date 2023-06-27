@@ -11,4 +11,4 @@ const Button = ({ textButton, w, h, bg }) => {
     <button style={ButtonStyle}>{textButton}</button>
   </>)
 }
-export default Button
+export default Button 
